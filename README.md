@@ -1,4 +1,4 @@
-# Frog drought project
+# Developmental and carry-over cost of drought in amphibians
 This repository contains code and data needed to reproduce the article:
 
 **Chuang M. F., Wu N. C., Fuh N. T., Borzée A., Wu C. S., & Kam, Y. C.** Climatic drought simulation alters developmental plasticity of tadpoles with carry-over cost on metamorph performance. (Submitted).

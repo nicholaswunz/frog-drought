@@ -1,6 +1,7 @@
 # Frog drought project
 This repository contains code and data needed to reproduce the article:
-**2.	Chuang M. F., Wu N. C., Fuh N. T., Borzée A., Wu C. S., & Kam, Y. C.** Climatic drought simulation alters developmental plasticity of tadpoles with carry-over cost on metamorph performance. (Submitted).
+
+**Chuang M. F., Wu N. C., Fuh N. T., Borzée A., Wu C. S., & Kam, Y. C.** Climatic drought simulation alters developmental plasticity of tadpoles with carry-over cost on metamorph performance. (Submitted).
 
 - frog_analysis.R
 - larvae_data.csv

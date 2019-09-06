@@ -1,4 +1,4 @@
-# Author: Nicholas Wu (nicholas.wu@sydney.edu.au or nicholas.wu/nz@gmail.com)
+# Author: Nicholas Wu (nicholas.wu@sydney.edu.au or nicholas.wu.nz@gmail.com)
 # Date: 03/09/2019
 # R version: 3.5.1 -- "Feather Spray"
 # Paper ID: Drought plasticity of Fejervarya tadpoles

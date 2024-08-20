@@ -5,7 +5,7 @@ Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This repository contains code and data needed to reproduce the article:
 
-**Chuang M. F., Wu N. C., Fuh N. T., Borzée A., Wu C. S., & Kam, Y. C.** Developmental plasticity to pond drying has carry-over costs on metamorph performance. (In submitted).
+**Wu N. C., Fuh N. T., Borzée A., Wu C. S., Kam, Y. C., & Chuang M. F.** Developmental plasticity to pond drying has carry-over costs on metamorph performance. (Submitted).
 
 [![DOI](https://zenodo.org/badge/205957472.svg)](https://zenodo.org/badge/latestdoi/205957472)
 

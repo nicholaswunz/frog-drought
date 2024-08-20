@@ -1,14 +1,20 @@
 # Developmental and carry-over cost of pond drying in amphibians
+[![license](https://img.shields.io/badge/license-MIT%20+%20file%20LICENSE-lightgrey.svg)](https://choosealicense.com/)
+![Open Source
+Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+
 This repository contains code and data needed to reproduce the article:
 
 **Chuang M. F., Wu N. C., Fuh N. T., Borzée A., Wu C. S., & Kam, Y. C.** Developmental plasticity to pond drying has carry-over costs on metamorph performance. (In submitted).
 
 [![DOI](https://zenodo.org/badge/205957472.svg)](https://zenodo.org/badge/latestdoi/205957472)
 
-- frog_analysis.R - R code for statistical analysis and produce figures for the article.
+**Raw data**
 - larvae_data.csv - Data for the tadpole length across treatment days.
 - metamorph_data.csv - Data on various traits measured in the experiments for both tapdoles and metamorphs.
-- supplementary file - Includes statistical outcome from the main document.
+
+**Analysis workflow**
+- [`supplementary_information.html`](https://nicholaswunz.github.io/tadpole-pond-drying/supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, creating figures, and supplementary material for statistical outcomes, additional figures, and descriptions from the main document.
 
 ## Abstract
 Increasing climate variability may leave ectotherms with complex life cycles more vulnerable to diseases and reduced fitness. In a rapidly changing climate along with anthropogenic impacts such as deforestation, amphibian larvae are facing threats of increased variable hydroperiods. While developmental plasticity may allow some species to escape drying ponds, this plasticity might result in trade-offs with performance and subsequent fitness in adults. Here, we used Asian grass frog (*Fejervarya limnocharis*) to test how drying pond conditions affect the growth plasticity of tadpoles and the carry-over effects on body size and performance. We predicted that tadpoles in shallower water treatments will develop faster and subsequent metamorphs will be smaller and have lower jumping performance. In contrast to our predictions, we show that tadpoles developing at lower water levels (0.25-0.5 cm depth) showing longer larval period before metamorphosis, reduced post-metamorph body size, and shorter maximum jumping distance as a results of smaller body size. These results highlight the variability in developmental plasticity among amphibians, and species like *F. limnocharis* are at greater risk to drying ponds than others that have a greater capacity for developmental plasticity.

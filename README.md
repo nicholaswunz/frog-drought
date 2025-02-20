@@ -5,9 +5,7 @@ Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This repository contains code and data needed to reproduce the article:
 
-**Wu N. C., Fuh N. T., Borzée A., Wu C. S., Kam, Y. C., & Chuang M. F.** Developmental plasticity to pond drying has carry-over costs on metamorph performance. (Accepted), *Conservation Physiology*.
-
-[![DOI](https://zenodo.org/badge/205957472.svg)](https://zenodo.org/badge/latestdoi/205957472)
+**Wu N. C., Fuh N. T., Borzée A., Wu C. S., Kam, Y. C., & Chuang M. F.** Developmental plasticity to pond drying has carry-over costs on metamorph performance. (2025), *Conservation Physiology*, **13**, coaf008, DOI: [![DOI](https://zenodo.org/badge/DOI/10.1093/conphys/coaf008.svg)](https://doi.org/10.1093/conphys/coaf008)
 
 **Raw data**
 - larvae_data.csv - Data for the tadpole length across treatment days.
